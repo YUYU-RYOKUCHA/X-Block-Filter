@@ -6,3 +6,7 @@
 
 ||twitter.com*$document
 ||x.com*$document
+
+twitter.com##body
+mobile.twitter.com##body
+x.com##body
